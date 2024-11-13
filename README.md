@@ -1,4 +1,5 @@
-# MayinTarlasi
+# TR-MayinTarlasi                                                                                           # EN-MineSweeper
+
 # TR - Mayın Tarlası Oyunu
 
 Bu proje, C# programlama dili kullanılarak geliştirilmiş basit bir Mayın Tarlası oyunudur. Oyun, konsol tabanlıdır ve 20x20 boyutlarında bir oyun alanında rastgele yerleştirilmiş mayınlarla oynanır. Oyuncunun amacı, mayınlara basmadan tüm güvenli hücreleri açmaktır.
@@ -20,7 +21,7 @@ Oyun başladığında konsolda 20x20 boyutunda bir oyun alanı görüntülenir. 
        •	Eğer seçilen hücrede mayın yoksa, hücre açılır ve çevresindeki mayın sayısı görüntülenir.
        •	Tüm güvenli hücreler açıldığında oyun kazanılır.
 
-# EN - MineSweeper
+# EN - Mine Sweeper Game
 
 This project is a simple Minesweeper game developed using the C# programming language. The game is console-based and played on a 20x20 grid with randomly placed mines. The player’s goal is to open all safe cells without hitting any mines.
 
@@ -36,7 +37,7 @@ This project is a simple Minesweeper game developed using the C# programming lan
 
 When the game starts, a 20x20 grid appears in the console. The player is prompted to enter row and column numbers.
 	
- •	Enter row and column numbers to select a cell.
+        •	Enter row and column numbers to select a cell.
 	•	If the chosen cell contains a mine, the game is over.
 	•	If the cell is safe, it will display the number of surrounding mines.
 	•	The game is won when all safe cells are opened.
