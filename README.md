@@ -14,7 +14,8 @@ Bu proje, C# programlama dili kullanılarak geliştirilmiş basit bir Mayın Tar
  ### Kullanım
 
 Oyun başladığında konsolda 20x20 boyutunda bir oyun alanı görüntülenir. Kullanıcıdan sırasıyla satır ve sütun girişi yapması istenir.
-	•	Bir hücreyi seçmek için satır ve sütun numaralarını girin.
-	•	Eğer seçilen hücrede mayın varsa, oyun sona erer.
-	•	Eğer seçilen hücrede mayın yoksa, hücre açılır ve çevresindeki mayın sayısı görüntülenir.
-	•	Tüm güvenli hücreler açıldığında oyun kazanılır.
+	
+ •	Bir hücreyi seçmek için satır ve sütun numaralarını girin.
+ •	Eğer seçilen hücrede mayın varsa, oyun sona erer.
+ •	Eğer seçilen hücrede mayın yoksa, hücre açılır ve çevresindeki mayın sayısı görüntülenir.
+ •	Tüm güvenli hücreler açıldığında oyun kazanılır.
