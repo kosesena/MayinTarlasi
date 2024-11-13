@@ -1,4 +1,4 @@
-# TR-MayinTarlasi                                                                                           # EN-MineSweeper
+# TR-MayinTarlasi                                                                                            EN-MineSweeper
 
 # TR - Mayın Tarlası Oyunu
 
