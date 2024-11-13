@@ -1,5 +1,5 @@
 # MayinTarlasi
-Mayın Tarlası Oyunu
+# Mayın Tarlası Oyunu
 
 Bu proje, C# programlama dili kullanılarak geliştirilmiş basit bir Mayın Tarlası oyunudur. Oyun, konsol tabanlıdır ve 20x20 boyutlarında bir oyun alanında rastgele yerleştirilmiş mayınlarla oynanır. Oyuncunun amacı, mayınlara basmadan tüm güvenli hücreleri açmaktır.
 
