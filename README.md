@@ -22,7 +22,7 @@ Oyun başladığında konsolda 20x20 boyutunda bir oyun alanı görüntülenir. 
        •	Eğer seçilen hücrede mayın yoksa, hücre açılır ve çevresindeki mayın sayısı görüntülenir.
        •	Tüm güvenli hücreler açıldığında oyun kazanılır.
 
-# EN - Mine Sweeper Game
+# EN - Minesweeper Game
 
 This project is a simple Minesweeper game developed using the C# programming language. The game is console-based and played on a 20x20 grid with randomly placed mines. The player’s goal is to open all safe cells without hitting any mines.
 
