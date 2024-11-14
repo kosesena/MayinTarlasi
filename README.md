@@ -40,7 +40,8 @@ This project is a simple Minesweeper game developed using the C# programming lan
 
 When the game starts, a 20x20 grid appears in the console. The player is prompted to enter row and column numbers.
 
-•⁠  ⁠Enter row and column numbers to select a cell.
-•⁠  ⁠If the chosen cell contains a mine, the game is over.
-•⁠  ⁠If the cell is safe, it will display the number of surrounding mines.
-•⁠  ⁠The game is won when all safe cells are opened.
+•⁠  ⁠Enter row and column numbers to select a cell. 
+•⁠  ⁠If the chosen cell contains a mine, the game is over. 
+•⁠  ⁠If the cell is safe, it will display the number of surrounding mines. 
+•⁠  ⁠The game is won when all safe cells are opened. 
+
